@@ -453,7 +453,7 @@ function initPlayer(videoUrl) {
         screenshot: true,
         setting: true,
         loop: false,
-        flip: false,
+        flip: true,
         playbackRate: true,
         aspectRatio: false,
         fullscreen: true,
